@@ -1,5 +1,11 @@
 # Performance testing suit for ROS MCL implementations
 
+**NOTE**: I no longer work in the field of robotics, this is not maintained. But
+the results should still be valid. And the test harness etc might be of use to
+you.
+
+---
+
 This repository implements some CPU usage and memory usage tests for Monte Carlo
 Localisation in ROS.
 
